@@ -485,32 +485,7 @@ private fun NiagaraHomePage(
 
             Spacer(Modifier.height(28.dp))
 
-            // Swipe-up hint only — no settings/dashboard buttons
-            AnimatedVisibility(
-                visible = !hasSeenAllAppsHint,
-                enter = fadeIn(),
-                exit = fadeOut()
-            ) {
-                Column(
-                    modifier            = Modifier.fillMaxWidth(),
-                    horizontalAlignment = Alignment.CenterHorizontally,
-                    verticalArrangement = Arrangement.spacedBy(2.dp),
-                ) {
-                    Text(
-                        text     = "⌃",
-                        color    = theme.textTertiary(),
-                        fontSize = 22.sp,
-                        modifier = Modifier.offset(y = chevronOffset.dp),
-                    )
-                    Text(
-                        text          = "All apps",
-                        color         = theme.textTertiary(),
-                        fontSize      = 10.sp,
-                        letterSpacing = 0.8.sp,
-                        fontWeight    = FontWeight.Medium,
-                    )
-                }
-            }
+            // Swipe-up hint removed per user request
 
             Spacer(Modifier.height(18.dp))
         }
